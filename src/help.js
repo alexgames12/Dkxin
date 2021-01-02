@@ -1,25 +1,25 @@
 const help = () => {
 	return '> ```Sticker Commands``` <\n' +
-	'command : *!sticker* or *!stiker*\n' +
-	'desc : convert image/gif/video to sticker\n' +
-	'usage : reply image/gif/video, or send image/gif/video with caption\n\n' + 
+	'command : *!sticker* ou *!stiker*\n' +
+	'desc : converted image./gif/video para sticker\n' +
+	'usage : resposta imagem/gif/video, ou enviar image/gif/video Com rubrica\n\n' + 
 	'command : *!toimg*\n' +
-	'desc : convert sticker to image\n' +
-	'usage : reply sticker\n\n' +
+	'desc : converter sticker para imagem\n' +
+	'usage : resposta sticker\n\n' +
 	'command : *!tsticker* or *!tstiker*\n' +
-	'desc : convert text to sticker\n' +
+	'desc : converter texto para sticker\n' +
 	'usage : *!tsticker text in here*\n\n' +
 	'> ```Meme Commands``` <\n' +
 	'command : *!meme*\n' +
-	'desc : random meme images [english]\n' +
-	'usage : just send the command\n\n' +
+	'desc : imagens aleatórias de meme [english]\n' +
+	'usage : apenas envie o comando\n\n' +
 	'command : *!memeindo*\n' +
-	'desc : random meme images [indo]\n' +
-	'usage : just send the command\n\n' +
-	'> ```Text To Speech Command``` <\n' +
+	'desc : imagens aleatórias de meme [indo]\n' +
+	'usage : apenas envie o comando\n\n' +
+	'> ```Comando Texto para Fala``` <\n' +
 	'command : *!gtts*\n' +
-	'desc : convert text to speech/audio\n' +
-	'usage : *!gtts [cc] [text]*\nexample : *!gtts ja On2-chan*'
+	'desc : converter texto em fala/audio\n' +
+	'usage : *!tts [cc] [text]*\nexample : *!tts ja Aí meu cu*'
 }
 
-exports.help = help
+exportações.ajuda = Socorro
